@@ -1,8 +1,8 @@
-# VIMBO
+# ZIMBO
 
 ## Description
 
-Vimbo is a VIM port of the Visual Studio Code [Bimbo theme](https://marketplace.visualstudio.com/items?itemName=pawelgrzybek.bimbo-theme).
+Zimbo is a VIM port of the Visual Studio Code [Bimbo theme](https://marketplace.visualstudio.com/items?itemName=pawelgrzybek.bimbo-theme).
 
 It supports [LightLine](https://github.com/itchyny/lightline.vim).
 
